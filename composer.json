@@ -1,0 +1,5 @@
+{
+	"name": "elgg/simplepie",
+	"type": "elgg-plugin",
+	"license": "GPL-2.0"
+}
